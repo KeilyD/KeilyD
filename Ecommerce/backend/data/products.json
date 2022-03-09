@@ -1,0 +1,95 @@
+[
+    {
+        "name" : "Ceramic Cups",
+        "price" : "5",
+        "description" : "Natural Sublimated Ceramic Cups",
+        "images" : [{
+            "public_id" : "1646682526653",
+            "url" : "https://res.cloudinary.com/dnfgthitm/image/upload/v1646682530/1646682526653.jpg"
+        }],
+        "category" : "Accessories",
+        "seller" : "Z-F CREATIONS",
+        "stock" : 20,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Ceramic Cups",
+        "price" : "5",
+        "description" : "magic cups sublimated with the reason you want",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "1646683156507",
+            "url" : "https://res.cloudinary.com/dnfgthitm/image/upload/v1646683157/1646683156507.jpg"
+        }],
+        "category" : "Accessories",
+        "seller" : "Z-F CREATIONS",
+        "stock" : 15,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "thermoses",
+        "price" : "26.99 ",
+        "description" : "personalized led thermos in various colors.",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "vygrq7gjoylahwp8x5gk",
+            "url" : "https://res.cloudinary.com/dsbemomaf/image/upload/v1646743292/vygrq7gjoylahwp8x5gk.jpg"
+        }],
+        "category" : "packaging",
+        "seller" : "Z-F CREATIONS",
+        "stock" : 10,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "surgery hat",
+        "price" : "5 ",
+        "description" : "surgery doctor hat customized to your style",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "1646681537810",
+            "url" : "https://res.cloudinary.com/dsbemomaf/image/upload/v1646681540/1646681537810.jpg"
+        }],
+        "category" : "other",
+        "seller" : "Z-F CREATIONS",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "detail",
+        "price" : "5",
+        "description" : "Beautiful detail, to give on those special days.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "1646684563767",
+            "url" : "https://res.cloudinary.com/dnfgthitm/image/upload/v1646684565/1646684563767.jpg"
+        }],
+        "category" : "Souvenirs",
+        "seller" : "Z-F CREATIONS",
+        "stock" : 10,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+
+    {
+        "name" : "sweater",
+        "price" : "5",
+        "description" : "personalized sweater with the reason of your preference.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "ovdc7kljgwhoc9vbscbm",
+            "url" : "https://res.cloudinary.com/dsbemomaf/image/upload/v1646743672/ovdc7kljgwhoc9vbscbm.jpg"
+        }],
+        "category" : "Clothes",
+        "seller" : "Z-F CREATIONS",
+        "stock" : 10,
+        "numOfReviews" : 2671,
+        "reviews": []
+
+
+}
+
+    ]
