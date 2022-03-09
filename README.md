@@ -17,7 +17,7 @@ Mi nombre es Keily, Estoy empezando en el mundo de la programación, en busqueda
 
 ## Conectate conmigo:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keily-daniela-garcia-leal)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/keily-daniela-garcia-leal)
 
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="rails" width="110" heigh="110" style="max-width:100%"></img>
 
