@@ -23,7 +23,6 @@ Mi nombre es Keily, Estoy empezando en el mundo de la programación, en busqueda
 
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keily-daniela-garcia-leal)
 
 
 
