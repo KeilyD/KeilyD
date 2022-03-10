@@ -1,6 +1,6 @@
-# Hola <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px" style="max-width: 100%;"></a>
+# Hola Mi nombre es Keily <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px" style="max-width: 100%;"></a>
 
-Mi nombre es Keily, Estoy empezando en el mundo de la programación, en busqueda de mis primeros pasos en este maravilloso mundo IT.Con habilidades de comunicación asertiva, análisis, negociación, liderazgo, orientación a resultados positivos y trabajo bajo presión, a fin de dar cumplimiento con las políticas exigidas por la empresa, con altos valores de ética profesional.
+Estoy empezando en el mundo de la programación, en busqueda de mis primeros pasos en este maravilloso mundo IT.Con habilidades de comunicación asertiva, análisis, negociación, liderazgo, orientación a resultados positivos y trabajo bajo presión, a fin de dar cumplimiento con las políticas exigidas por la empresa, con altos valores de ética profesional.
 
 ## Mis habilidades <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
 
