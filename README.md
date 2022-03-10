@@ -2,7 +2,12 @@
 
 Estoy empezando en el mundo de la programación, en busqueda de mis primeros pasos en este maravilloso mundo IT.Con habilidades de comunicación asertiva, análisis, negociación, liderazgo, orientación a resultados positivos y trabajo bajo presión, a fin de dar cumplimiento con las políticas exigidas por la empresa, con altos valores de ética profesional.
 
-## Mis habilidades <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
+
+ <h2>
+  <a name="Mis Habilidades" href="#mis habilidades">
+  </a>
+  🛠 Mis Habilidades
+</h2>
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   
@@ -36,15 +41,18 @@ Estoy empezando en el mundo de la programación, en busqueda de mis primeros pas
   
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="rails" width="150" heigh="140" style="max-width:100%"></img>
 
+<h2>
+  <a name="Contacto" href="#contact">
+  </a>
+  📱 Contacto
+</h2>
 
-
-## Conectate conmigo:
 <a href="https://www.linkedin.com/in/keily-daniela-garcia-leal" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white" alt="rails" width="120" heigh="120" style="max-width:100%"></a>
 
 
-<a href="https://api.whatsapp.com/send?phone=541173650723&text=Hola!!" target="_blank">
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=541173650723&text=Hola!!Gracias por contactarme 😃" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rails" width="135" heigh="135" style="max-width:100%"></a>
 
 
 
