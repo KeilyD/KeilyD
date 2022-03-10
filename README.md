@@ -17,14 +17,8 @@ Mi nombre es Keily, Estoy empezando en el mundo de la programación, en busqueda
 
 ## Conectate conmigo:
 <a href="https://www.linkedin.com/in/keily-daniela-garcia-leal" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white" alt="rails" width="120" heigh="120" style="max-width:100%"></a>
 
 
 
-
-
-
-
-
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
