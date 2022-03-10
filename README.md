@@ -43,5 +43,8 @@ Estoy empezando en el mundo de la programación, en busqueda de mis primeros pas
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white" alt="rails" width="120" heigh="120" style="max-width:100%"></a>
 
 
+<a href="https://api.whatsapp.com/send?phone=541173650723&text=Hola!!" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 
 
