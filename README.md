@@ -2,6 +2,7 @@
 
 Estoy empezando en el mundo de la programación, en busqueda de mis primeros pasos en este maravilloso mundo IT.Con habilidades de comunicación asertiva, análisis, negociación, liderazgo, orientación a resultados positivos y trabajo bajo presión, a fin de dar cumplimiento con las políticas exigidas por la empresa, con altos valores de ética profesional.
 
+<img src="https://camo.githubusercontent.com/41b7cd0409b1f9e3b9a56a4d4d50dfb65410aa83bdfab9cd8ceb6155527c6c23/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d7631616b346a665f792d772f573771304362664f7255492f4141414141414141414a672f456b586371627a6f666c4d35493573646452336936747848436c2d725537613977434c63424741732f733238302f42454c494556452b494e2b594f555253454c462e676966" alt="Crean en si mismos" data-canonical-src="https://2.bp.blogspot.com/-v1ak4jf_y-w/W7q0CbfOrUI/AAAAAAAAAJg/EkXcqbzoflM5I5sddR3i6txHCl-rU7a9wCLcBGAs/s280/BELIEVE+IN+YOURSELF.gif" style="max-width: 100%;">
 
  <h2>
   <a name="Mis Habilidades" href="#mis habilidades">
@@ -55,5 +56,5 @@ Estoy empezando en el mundo de la programación, en busqueda de mis primeros pas
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rails" width="135" heigh="135" style="max-width:100%"></a>
 
 
-![image](https://user-images.githubusercontent.com/78735003/157905667-2a383030-e71f-4508-b9b7-f2ee279fb82b.png)
+
 
