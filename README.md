@@ -55,4 +55,5 @@ Estoy empezando en el mundo de la programación, en busqueda de mis primeros pas
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rails" width="135" heigh="135" style="max-width:100%"></a>
 
 
+![image](https://user-images.githubusercontent.com/78735003/157905667-2a383030-e71f-4508-b9b7-f2ee279fb82b.png)
 
