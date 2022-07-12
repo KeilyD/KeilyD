@@ -11,10 +11,6 @@ Soy desarrolladora web, con un año de experiencia en la creación de aplicacion
 width="50"></h2><img align='right' src=
 "https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4707y3yxii9qq29jjal60uigw9v7cxc9fa164c5qt6&rid=giphy.gif&ct=s" width="230">
 
-
-     
-<img src="https://camo.githubusercontent.com/41b7cd0409b1f9e3b9a56a4d4d50dfb65410aa83bdfab9cd8ceb6155527c6c23/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d7631616b346a665f792d772f573771304362664f7255492f4141414141414141414a672f456b586371627a6f666c4d35493573646452336936747848436c2d725537613977434c63424741732f733238302f42454c494556452b494e2b594f555253454c462e676966" alt="Crean en si mismos" data-canonical-src="https://2.bp.blogspot.com/-v1ak4jf_y-w/W7q0CbfOrUI/AAAAAAAAAJg/EkXcqbzoflM5I5sddR3i6txHCl-rU7a9wCLcBGAs/s280/BELIEVE+IN+YOURSELF.gif" style="max-width: 100%;">
-
  <h2>
   <a name="Mis Habilidades" href="#mis habilidades">
   </a>
