@@ -12,6 +12,12 @@ Soy desarrolladora web, con un año de experiencia en la creación de aplicacion
 "https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4707y3yxii9qq29jjal60uigw9v7cxc9fa164c5qt6&rid=giphy.gif&ct=s" width="230">
 
 
+
+
+
+
+
+
  <h2>
   <a name="Mis Habilidades" href="#mis habilidades">
   </a>
