@@ -55,6 +55,15 @@ Soy desarrolladora web, con un año de experiencia en la creación de aplicacion
 <a href="https://es.wikipedia.org/wiki/PostgreSQL">
   
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="rails" width="150" heigh="140" style="max-width:100%"></img>
+  
+  
+  <div class="skill">
+                <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noopener">
+                    <span class="iconify skill__icon" data-icon="vscode-icons:file-type-plsql" viewBox="0 0 448 512"></span>
+                    <!-- <i class="fa-solid fa-database skill__icon" viewBox="0 0 448 512"></i> -->
+                <p class="skill__name">Sql</p>
+            </a>
+            </div>
 
 <h2>
   <a name="Contacto" href="#contact">
