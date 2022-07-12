@@ -7,7 +7,7 @@ Una persona proactiva, organizada y responsable, con habilidad para generar buen
 Soy desarrolladora web, con un año de experiencia en la creación de aplicaciones. Busco un empleo que me permita hacer el mejor uso de mis habilidades. Soy decidida y entusiasta, una persona proactiva que considera el trabajo en equipo y la honestidad como grandes valores.
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" 
-width="50"></h2><img align='right' src=
+width="50"></h2><img align='center' src=
 "https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4707y3yxii9qq29jjal60uigw9v7cxc9fa164c5qt6&rid=giphy.gif&ct=s" width="230">
 
 
