@@ -24,6 +24,10 @@ Soy desarrolladora web, con un año de experiencia en la creación de aplicacion
   🛠 Mis Habilidades
 </h2>
 
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" >
+  
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="rails" width="80" heigh="80" style="max-width:100%"></img>
+
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   
   <img src="https://user-images.githubusercontent.com/78735003/157490390-8b8f97ea-c64b-4b6f-a5bf-d633e2865d98.png" alt="rails" width="145" heigh="145" style="max-width:100%"></a>
